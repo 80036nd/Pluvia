@@ -7,10 +7,7 @@ Beta 1 Limitations
 ==================
 Only for Mac!
 Only supports iPhone3,1. 
-Only supports iOS 6.x, 7.0.4, and 7.0.6.
-Can only jailbreak iOS 6.1.3
-
-NOTE: 8GB iPhone 4's that shipped with iOS 6 can only run iOS 6 and newer, NOT iOS 4 or 5. This almost certainly can't be fixed.
+Only supports iOS 6.0 and 6.1.3
 
 How to use Pluvia
 =================
